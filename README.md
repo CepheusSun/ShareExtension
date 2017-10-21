@@ -1,2 +1,2 @@
 # ShareExtension
-ShareExtensionDemo swift3.2
+ShareExtensionDemo swift4.0
