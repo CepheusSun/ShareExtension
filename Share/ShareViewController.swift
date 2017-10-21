@@ -39,7 +39,7 @@ class ShareViewController: SLComposeServiceViewController {
     }
     
     // For skip compile error.
-    func openURL(_ url: URL) {
+    @objc func openURL(_ url: URL) {
         return
     }
     
